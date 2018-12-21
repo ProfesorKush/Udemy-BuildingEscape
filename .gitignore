@@ -4,4 +4,6 @@
 */Intermediate
 */Saved
 BuildingEscape/Content/StarterContent/
-*.db
+
+###VS GENERATED###
+*.VC.db
